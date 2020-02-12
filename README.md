@@ -4,13 +4,13 @@ In this project, I tried to classify clothes, using 255 pixel.Also, I used keras
 
 
 #Remember the 10 classes decoding is as follows:
-0=> T-shirt
-1=> Trouser
-2=> Pullover
-3=> Dress
-4=> Coat
-5=> Sandal
-6=> Shirt
-7=> Sneaker
-8=> Bag
-9=> Ankle boat
+# 0=> T-shirt
+# 1=> Trouser
+# 2=> Pullover
+# 3=> Dress
+# 4=> Coat
+# 5=> Sandal
+# 6=> Shirt
+# 7=> Sneaker
+# 8=> Bag
+# 9=> Ankle boat
